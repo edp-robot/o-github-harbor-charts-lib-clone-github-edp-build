@@ -1,6 +1,6 @@
 # rabbitmq
 
-![Version: 12.0.2](https://img.shields.io/badge/Version-12.0.2-informational?style=flat-square) ![AppVersion: 3.12.0](https://img.shields.io/badge/AppVersion-3.12.0-informational?style=flat-square)
+![Version: 12.15.0](https://img.shields.io/badge/Version-12.15.0-informational?style=flat-square) ![AppVersion: 3.12.0](https://img.shields.io/badge/AppVersion-3.12.0-informational?style=flat-square)
 
 RabbitMQ is an open source general-purpose message broker that is designed for consistent, highly-available messaging scenarios (both synchronous and asynchronous).
 
